@@ -1,6 +1,6 @@
 ### Hi I'm Tim 👋
 
-Most of my work is in private repistories.
+Most of my work is in private repositories.
 
 
 - 🔭 Currently building Jovie (http://jov.ie)
